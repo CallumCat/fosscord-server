@@ -32,7 +32,7 @@
 		"jsonwebtoken": "^9.0.0",
 		"lambert-server": "^1.2.11",
 		"missing-native-js-functions": "^1.2.18",
-		"node-fetch": "^2.6.1",
+		"node-fetch": "^2.6.7",
 		"proxy-agent": "^5.0.0",
 		"typeorm": "^0.3.14",
 		"ws": "^7.4.2"
