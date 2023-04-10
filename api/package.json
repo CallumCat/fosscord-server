@@ -88,7 +88,7 @@
 		"patch-package": "^6.4.7",
 		"proxy-agent": "^5.0.0",
 		"supertest": "^6.1.6",
-		"typeorm": "^0.2.37"
+		"typeorm": "^0.3.14"
 	},
 	"jest": {
 		"setupFiles": [
