@@ -35,7 +35,7 @@
 		"ts-patch": "^1.4.4"
 	},
 	"dependencies": {
-		"@aws-sdk/client-s3": "^3.36.1",
+		"@aws-sdk/client-s3": "^3.350.0",
 		"@aws-sdk/node-http-handler": "^3.36.0",
 		"@fosscord/util": "file:../util",
 		"body-parser": "^1.20.1",
